@@ -4,7 +4,7 @@
  
   
   <a href="https://www.linkedin.com/in/vibhutivadje/">
-    <img src="https://img.shields.io/badge/Laxmikant-Pandhare-blue?style=flat&logo=linkedin">
+    <img src="https://img.shields.io/badge/Vibhuti-Vadje-blue?style=flat&logo=linkedin">
   </a> &nbsp; 
 
   
