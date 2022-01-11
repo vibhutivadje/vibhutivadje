@@ -17,7 +17,7 @@
   </a>&nbsp; 
  
    
-   <a href="https://www.youtube.com/channel/UCxGW3wUKTg6OqSeThSGx8dQ?view_as=subscriber">
+   <a href="https://www.youtube.com/channel/UCKgvq8fv5WKmeVTwhGovxCg">
     <img src="https://img.shields.io/badge/-vibhuti%20vadje-red?style=flat&logo=youtube">
   </a> &nbsp; 
 
