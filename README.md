@@ -12,13 +12,13 @@
     <img src="https://img.shields.io/badge/-%40VibhutiVadje-black?style=flat&logo=medium">
   </a>&nbsp; 
   
-   <a href="https://twitter.com/laxmikantpandha">
+   <a href="https://twitter.com/vibhutivadje">
     <img src="https://img.shields.io/twitter/url?label=Laxmikant%20Pandhare&style=social&url=https%3A%2F%2Ftwitter.com%2Flaxmikantpandha">
   </a>&nbsp; 
  
    
    <a href="https://www.youtube.com/channel/UCxGW3wUKTg6OqSeThSGx8dQ?view_as=subscriber">
-    <img src="https://img.shields.io/badge/-Laxmikant%20Pandhare-red?style=flat&logo=youtube">
+    <img src="https://img.shields.io/badge/-vibhuti%20vadje-red?style=flat&logo=youtube">
   </a> &nbsp; 
 
   
