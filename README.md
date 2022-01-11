@@ -9,7 +9,7 @@
 
   
  <a href="https://medium.com/@vibhutivadje">
-    <img src="https://img.shields.io/badge/-%40laxmikantpandhare-black?style=flat&logo=medium">
+    <img src="https://img.shields.io/badge/-%40VibhutiVadje-black?style=flat&logo=medium">
   </a>&nbsp; 
   
    <a href="https://twitter.com/laxmikantpandha">
