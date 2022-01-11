@@ -8,7 +8,7 @@
   </a> &nbsp; 
 
   
- <a href="https://medium.com/@laxmikantpandhare">
+ <a href="https://medium.com/@vibhutivadje">
     <img src="https://img.shields.io/badge/-%40laxmikantpandhare-black?style=flat&logo=medium">
   </a>&nbsp; 
   
