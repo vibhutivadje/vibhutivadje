@@ -1,5 +1,31 @@
-- 👋 Hi, I’m @vibhutivadje
-- 👀 I’m interested in deriving knowlegdeable insights from your data and help create impact products to solve real business problems
+<p align="left"> 
+<!--  <img src=https://komarev.com/ghpvc/?username=laxmikantbpandhare alt=laxmikantbpandhare/>  -->
+ &nbsp; 
+ 
+  
+  <a href="https://www.linkedin.com/in/vibhutivadje/">
+    <img src="https://img.shields.io/badge/Laxmikant-Pandhare-blue?style=flat&logo=linkedin">
+  </a> &nbsp; 
+
+  
+ <a href="https://medium.com/@laxmikantpandhare">
+    <img src="https://img.shields.io/badge/-%40laxmikantpandhare-black?style=flat&logo=medium">
+  </a>&nbsp; 
+  
+   <a href="https://twitter.com/laxmikantpandha">
+    <img src="https://img.shields.io/twitter/url?label=Laxmikant%20Pandhare&style=social&url=https%3A%2F%2Ftwitter.com%2Flaxmikantpandha">
+  </a>&nbsp; 
+ 
+   
+   <a href="https://www.youtube.com/channel/UCxGW3wUKTg6OqSeThSGx8dQ?view_as=subscriber">
+    <img src="https://img.shields.io/badge/-Laxmikant%20Pandhare-red?style=flat&logo=youtube">
+  </a> &nbsp; 
+
+  
+</p>
+
+- 👋 Hi, I’m Vibhuti Vadje. Graduate from California State University East Bay. Data Enthusiast
+- 👀 Passionate about data. I’m interested in deriving knowlegdeable insights from your data and help create impact products to solve real business problems
 - 🌱 I’m currently learning data technologies
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
